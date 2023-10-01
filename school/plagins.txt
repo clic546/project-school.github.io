@@ -1,0 +1,21 @@
+All Autocomplete
+Auto Close Tag
+Auto Complete Tag
+Auto Rename Tag
+Beautify
+Code Runner
+ESLint
+GitLens — Git supercharged
+html tag wrapper
+Import Cost
+JavaScript (ES6) code snippets
+Live Server
+Multiple clipboards for VSCode
+Path Autocomplete
+Russian Language Pack for Visual Studio Code
+VS HTML to CSS
+vscode-icons
+
+https://fontawesome.com/search
+https://cdnjs.com/libraries/font-awesome
+https://swiperjs.com
